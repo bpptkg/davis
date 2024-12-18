@@ -1,0 +1,14 @@
+{
+  "name": "davis",
+  "version": "1.0.0",
+  "description": "BPPTKG Data Visualization web app",
+  "scripts": {
+    "test": "pnpm run test --recursive"
+  },
+  "author": "BPPTKG",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "typescript-node": "^0.1.3"
+  }
+}
